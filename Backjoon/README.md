@@ -1,6 +1,6 @@
-# Programmers
+# Backjoon
 
-## [사이트](https://programmers.co.kr/)
+## [사이트]([https://programmers.co.kr/](https://www.acmicpc.net/step))
 
 ## 문제 유형
 
