@@ -12,6 +12,7 @@
 - [프로그래머스](./Programmers/README.md)
 - [백준](./Backjoon/README.md)
 - [Do it 알고리즘책](./do_it_algorithm/README.md)
+- [인프런 강의(스터디)](./inflearn_study_algorithm/README.md)
 
 ## 사용 언어
 
