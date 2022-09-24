@@ -1,6 +1,5 @@
 package inflearn_study_algorithm;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class String_02 {
