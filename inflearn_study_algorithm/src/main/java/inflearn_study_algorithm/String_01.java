@@ -37,6 +37,7 @@ public class String_01 {
 				cnt++;
 			}
 		}
+		sc.close();
 		System.out.println("\n" + cnt);
 	}
 	

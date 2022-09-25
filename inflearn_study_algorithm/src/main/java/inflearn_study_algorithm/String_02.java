@@ -35,6 +35,7 @@ public class String_02 {
 			}
 			
 		}
+		sc.close();
 		System.out.println("출력 >>>>>> " + result);
 	}
 
