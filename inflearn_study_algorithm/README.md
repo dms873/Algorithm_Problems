@@ -18,6 +18,9 @@
 | 07 |           회문 문자열            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_07.java) |
 | 08 |           유효한 팰린드롬            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_08.java) |
 | 09 |           숫자만 추출            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_09.java) |
+| 10 |         가장 짧은 문자거리         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_10.java) |
+| 11 |           문자열 압축            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_11.java) |
+| 12 |              암호              | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_12.java) |
 
 
 ## 문제 리스트 표시 규칙
