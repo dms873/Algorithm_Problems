@@ -30,6 +30,7 @@ public class String_07 {
 				result = "YES";
 			} else {
 				result = "NO";
+				break;
 			}
 		}
 		sc.close();

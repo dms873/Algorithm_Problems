@@ -18,7 +18,7 @@ public class String_11 {
 		* 
 		**/
 		
-		String str = "KKHSSSSSSSE";
+		String str = "KSTTTSEEKFKKKDJJGG";
 		int cnt = 1;
 		String result = "";
 		
@@ -26,6 +26,9 @@ public class String_11 {
 			if(i != 0) {
 				if(str.charAt(i) == str.charAt(i-1)) {
 					cnt++;
+					if(i == str.length()-1) {
+						result += cnt;
+					}
 				} else {
 					if(cnt > 1) {
 						result += cnt;

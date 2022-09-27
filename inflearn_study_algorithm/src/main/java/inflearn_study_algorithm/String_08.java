@@ -33,6 +33,7 @@ public class String_08 {
 					result = "YES";
 				} else {
 					result = "NO";
+					break;
 				}
 			}
 			

@@ -26,6 +26,7 @@ public class String_05 {
 		char check2;
 		String result = "";
 		
+		// 대칭이 아닌경우 통과못함
 		for(int i = 0; i < str.length(); i++) {
 			check = str.charAt(i); // 앞에서 
 			check2 = str.charAt(str.length()-1-i); // 뒤에서 
