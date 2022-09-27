@@ -1,6 +1,12 @@
 package inflearn_study_algorithm;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
+import java.util.Set;
 
 public class String_05 {
 	
@@ -26,7 +32,9 @@ public class String_05 {
 		char check2;
 		String result = "";
 		
-		// 대칭이 아닌경우 통과못함
+		// 대칭이 아닌경우 통과못함 
+		// => 동영상 강의 => lt는 left(첫번째), rt는 right(마지막번째)
+		// lt / rt 로 비교해서 lt가 특수문자면 lt++ / rt가 특수문자면 rt-- / 그것도 아니면(양쪽이 알파벳이면) 자리바꿔주고 lt++, rt-- 
 		for(int i = 0; i < str.length(); i++) {
 			check = str.charAt(i); // 앞에서 
 			check2 = str.charAt(str.length()-1-i); // 뒤에서 
