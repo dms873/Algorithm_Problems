@@ -6,8 +6,9 @@
 
 
 ## 문제풀이
-섹션1 - 문자열
-| 번호  |             문제 제목         |             문제 풀이                                                                                                               |
+
+### 섹션1 - 문자열
+| 번호  |             문제 제목         |             문제 풀이          |
 | :---: | :--------------------------: | :---------------------------------------------------------------: |
 | 01 |            문자 찾기            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_01.java) |
 | 02 |            대소문자 변환            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_02.java) |
@@ -22,6 +23,7 @@
 | 11 |           문자열 압축            | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_11.java) |
 | 12 |              암호              | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_12.java) |
 
+### 섹션2 - 배열
 
 ## 문제 리스트 표시 규칙
 
