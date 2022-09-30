@@ -24,6 +24,9 @@
 | 12 |              암호              | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/String_12.java) |
 
 ### 섹션2 - 배열
+| 번호  |             문제 제목         |             문제 풀이          |
+| :---: | :--------------------------: | :---------------------------------------------------------------: |
+
 
 ## 문제 리스트 표시 규칙
 
