@@ -27,6 +27,7 @@
 | 번호  |             문제 제목         |             문제 풀이          |
 | :---: | :--------------------------: | :---------------------------------------------------------------: |
 | 01 |             큰 수 출력하기           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_01.java) |
+| 03 |             가위 바위 보           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_03.java) |
 
 
 ## 문제 리스트 표시 규칙
