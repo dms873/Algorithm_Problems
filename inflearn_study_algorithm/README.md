@@ -27,7 +27,17 @@
 | 번호  |             문제 제목         |             문제 풀이          |
 | :---: | :--------------------------: | :---------------------------------------------------------------: |
 | 01 |             큰 수 출력하기           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_01.java) |
+| 02 |             보이는 학생           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_02.java) |
 | 03 |             가위 바위 보           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_03.java) |
+| 04 |             피보나치 수열           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_04.java) |
+| 05 |             소수(에라토스테네스 체)           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_05.java) |
+| 06 |           뒤집은 소수           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_06.java) |
+| 07 |          점수 계산       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_07.java) |
+| 08 |         등수 구하기       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_08.java) |
+| 09 |         격자판 최대합       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_09.java) |
+| 10 |         봉우리       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_10.java) |
+| 11 |        임시반장 정하기       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_11.java) |
+| 12 |         멘토링       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_12.java) |
 
 
 ## 문제 리스트 표시 규칙
