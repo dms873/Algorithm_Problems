@@ -9,7 +9,7 @@
 
 ### 사이트 및 책
 
-- [프로그래머스](./Programmers/README.md)
+- [프로그래머스](./Programers/README.md)
 - [백준](./Backjoon/README.md)
 - [Do it 알고리즘책](./do_it_algorithm/README.md)
 - [인프런 강의(스터디)](./inflearn_study_algorithm/README.md)
