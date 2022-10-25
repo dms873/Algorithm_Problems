@@ -39,6 +39,15 @@
 | 11 |        임시반장 정하기       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_11.java) |
 | 12 |         멘토링       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Array_12.java) |
 
+### 섹션3 - Two pointers, Sliding window
+| 번호  |             문제 제목         |             문제 풀이          |
+| :---: | :--------------------------: | :---------------------------------------------------------------: |
+| 01 |            두 배열 합치기          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_01.java) |
+| 02 |            공통 원소 구하기           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_02.java) |
+| 03 |              최대 매출         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_03.java) |
+| 04 |           연속 부분 수열           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_04.java) |
+| 05 |          연속된 자연수의 합           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_05.java) |
+| 06 |        최대 길이 연속 부분 수열       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_06.java) |
 
 ## 문제 리스트 표시 규칙
 
