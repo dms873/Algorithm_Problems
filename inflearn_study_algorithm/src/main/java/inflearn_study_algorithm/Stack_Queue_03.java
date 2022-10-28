@@ -24,7 +24,7 @@ public class Stack_Queue_03 {
 		* 
 		**/
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		// System.out.print("배열크기 입력 : ");
 		int num = sc.nextInt();
 		int[][] arr = new int[num][num];

@@ -22,7 +22,7 @@ public class Stack_Queue_07 {
 		* 
 		**/
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		// System.out.print("필수 과목 : ");
 		String sub = sc.nextLine();
 		// System.out.print("수업 설계 : ");

@@ -40,6 +40,6 @@ public class Stack_Queue_05 {
 				result++;
 			}
 		}
-		System.out.println(result);
+		System.out.println(result); 
 	}
 }
