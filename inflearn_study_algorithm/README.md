@@ -49,6 +49,15 @@
 | 05 |          연속된 자연수의 합           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_05.java) |
 | 06 |        최대 길이 연속 부분 수열       | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/TwoPointers_SlidingWindow_Math_06.java) |
 
+### 섹션4 - HashMap, HashSet, TreeSet
+| 번호  |             문제 제목         |             문제 풀이          |
+| :---: | :--------------------------: | :---------------------------------------------------------------: |
+| 01 |            학급 회장(해쉬)          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_01.java) |
+| 02 |            아나그램(해쉬)           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_02.java) |
+| 03 |             매출액의 종류         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_03.java) |
+| 04 |           모든 아나그래 찾기(해쉬, 투포인터, 슬라이딩 윈도우)          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_04.java) |
+| 05 |          K번째 큰 수           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_05.java) |
+
 ## 문제 리스트 표시 규칙
 
 문제 리스트는 표로 구성
