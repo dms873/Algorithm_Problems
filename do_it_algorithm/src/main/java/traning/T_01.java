@@ -23,6 +23,7 @@ public class T_01 {
 		if (c > max) {
 			max = c;
 		}
+		sc.close();
 		
 		System.out.println("\n최대값은 " + max + "입니다.");
 	}

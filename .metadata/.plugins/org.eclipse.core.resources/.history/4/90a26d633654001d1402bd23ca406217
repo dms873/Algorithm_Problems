@@ -1,0 +1,42 @@
+package inflearn_study_algorithm;
+
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.Stack;
+
+public class Stack_Queue_03 {
+
+	public static void main(String[] args) {
+		
+		/*
+		* ABOUT
+		*
+		* DATE: 2022-10-25
+		* AUTHOR: dms873
+		*
+		* TITLE: 크레인 인형뽑기(카카오)      
+		*
+		* COMMENT: 
+		* 
+		**/
+		
+		Scanner sc = new Scanner(System.in);
+		// System.out.print("배열크기 입력 : ");
+		int num = sc.nextInt();
+		int[][] arr = new int[num][num];
+		
+		for(int i = 0; i < num; i++) {
+			for(int j = 0; j < num; j++) {
+				arr[i][j] = sc.nextInt();
+			}
+		}
+		
+		// System.out.print("몇 번 움직? : ");
+		int move = sc.nextInt();
+		int[] moveArr = new int[move];
+		for(int i = 0; i < move; i ++) moveArr[i] = sc.nextInt();
+		sc.close();
+		System.out.println(Arrays.deepToString(arr));
+		System.out.println(Arrays.toString(moveArr));
+	}
+}

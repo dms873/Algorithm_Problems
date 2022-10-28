@@ -1,0 +1,27 @@
+package inflearn_study_algorithm;
+
+import java.util.Scanner;
+
+public class Stack_Queue_01 {
+
+	public static void main(String[] args) {
+		
+		/*
+		* ABOUT
+		*
+		* DATE: 2022-10-25
+		* AUTHOR: dms873
+		*
+		* TITLE: 올바른 괄호      
+		*
+		* COMMENT: 
+		* 
+		**/
+		
+		Scanner sc = new Scanner(System.in);
+		
+		sc.close();
+
+	}
+
+}
