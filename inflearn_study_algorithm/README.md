@@ -58,6 +58,14 @@
 | 04 |           모든 아나그램 찾기(해쉬, 투포인터, 슬라이딩 윈도우)          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_04.java) |
 | 05 |          K번째 큰 수           | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/HashMap_HashSet_TreeSet_05.java) |
 
+### 섹션5 - Stack & Queue
+| 번호  |             문제 제목         |             문제 풀이          |
+| :---: | :--------------------------: | :---------------------------------------------------------------: |
+| 01 |            올바른 괄호          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_01.java) |
+| 03 |           크레인 인형뽑기(카카오)        | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_03.java) |
+| 05 |          쇠막대기         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_05.java) |
+| 07 |        교육과정 설계          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_07.java) |
+
 ## 문제 리스트 표시 규칙
 
 문제 리스트는 표로 구성
