@@ -62,7 +62,9 @@
 | 번호  |             문제 제목         |             문제 풀이          |
 | :---: | :--------------------------: | :---------------------------------------------------------------: |
 | 01 |            올바른 괄호          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_01.java) |
+| 02 |            괄호 문자 제거          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_02.java) |
 | 03 |           크레인 인형뽑기(카카오)        | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_03.java) |
+| 04 |           후위식 연산(postfix)          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_04.java) |
 | 05 |          쇠막대기         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_05.java) |
 | 07 |        교육과정 설계          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_07.java) |
 
