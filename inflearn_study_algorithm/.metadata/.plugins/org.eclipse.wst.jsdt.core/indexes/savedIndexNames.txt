@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/eunjin/Desktop/jinny/algorithm/inflearn_study_algorithm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1937253264.index
-2233226427.index
-4019554378.index
-415510485.index
-3235819037.index
-2307710003.index
