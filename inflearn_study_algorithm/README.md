@@ -66,7 +66,9 @@
 | 03 |           크레인 인형뽑기(카카오)        | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_03.java) |
 | 04 |           후위식 연산(postfix)          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_04.java) |
 | 05 |          쇠막대기         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_05.java) |
+| 06 |          공주구하기         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_06.java) |
 | 07 |        교육과정 설계          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_07.java) |
+| 08 |           응급실         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_08.java) |
 
 ## 문제 리스트 표시 규칙
 
