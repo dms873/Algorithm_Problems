@@ -70,6 +70,8 @@
 | 07 |        교육과정 설계          | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_07.java) |
 | 08 |           응급실         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_08.java) |
 
+### 섹션6 - Sorting and Searching, 결정알고리즘
+
 ## 문제 리스트 표시 규칙
 
 문제 리스트는 표로 구성
