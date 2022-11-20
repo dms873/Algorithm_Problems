@@ -71,6 +71,8 @@
 | 08 |           응급실         | [Java](https://github.com/dms873/Algorithm_Problems/blob/master/inflearn_study_algorithm/src/main/java/inflearn_study_algorithm/Stack_Queue_08.java) |
 
 ### 섹션6 - Sorting and Searching, 결정알고리즘
+| 번호  |             문제 제목         |             문제 풀이          |
+| :---: | :--------------------------: | :---------------------------------------------------------------: |
 
 ## 문제 리스트 표시 규칙
 
